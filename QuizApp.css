@@ -1,0 +1,25 @@
+ul {
+    background-image:linear-gradient(to left, grey, #333);
+    padding: 10px;
+    border-radius: 5px;
+    border: black solid 3px;
+}
+li {
+    list-style-type: none;
+    border: black solid 2px;
+    padding: 5px;
+    margin-left: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+    background-color: white;
+}
+.question {
+    margin: 0px; 
+}
+body {
+    background-color: white;
+}
+div {
+    width: 80%;
+    margin: auto;
+}
